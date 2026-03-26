@@ -1,0 +1,10 @@
+@"
+* text=auto
+*.cs text eol=lf
+*.png binary
+*.jpg binary
+*.dll binary
+*.exe binary
+*.designer.cs merge=ours
+*.generated.cs merge=ours
+"@
